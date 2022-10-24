@@ -1,0 +1,15 @@
+# module
+node_modules
+
+# compile
+out
+*.vsix
+
+# test
+.vscode-test
+
+# misc
+.pdf
+
+# lock
+yarn.json
