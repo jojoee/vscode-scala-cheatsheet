@@ -11,7 +11,7 @@ A Visual Studio Code extension that lets you open Scala cheatsheet inside the ed
 - `Scala Cheatsheet: Website` to open website inside editor
 
 ## TODO
-- [ ] Add https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+- [x] Add https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
 - [ ] Automated: test
 - [ ] Refactoring
 

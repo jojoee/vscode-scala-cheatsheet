@@ -11,13 +11,18 @@
     "Programming Languages"
   ],
   "activationEvents": [
-    "onCommand:scalaCheatsheet.openWebsite"
+    "onCommand:scalaCheatsheet.openWebsite",
+    "onCommand:scalaCheatsheet.openHeatherMillerPdf"
   ],
   "main": "./out/extension.js",
   "license": "MIT",
   "icon": "asset/icon.png",
   "contributes": {
     "commands": [
+      {
+        "command": "scalaCheatsheet.openHeatherMillerPdf",
+        "title": "Scala Cheatsheet: PDF (Heather Miller)"
+      },
       {
         "command": "scalaCheatsheet.openWebsite",
         "title": "Scala Cheatsheet: Website"
